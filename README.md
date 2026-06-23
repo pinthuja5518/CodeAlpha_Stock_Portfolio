@@ -2,6 +2,16 @@ PROJECT TITLE
 
 Stock Portfolio Tracker using Python
 
+PROJECT DETAILS 
+
+Project Name: Stock Portfolio Tracker
+
+Domain: Finance / Stock Market Management
+
+Programming Language Used: Python
+
+Internship Project Title: Stock Portfolio Tracker using Python
+
 OBJECTIVE 
 
 To create a simple program that calculates total investment based on stock names and quantities entered by the user.
